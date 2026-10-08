@@ -1,0 +1,8 @@
+{
+  "name": "Resolve MZ",
+  "description": "Assistente remoto inteligente para Moçambique. Diga o que precisa, nós mostramos como resolver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
